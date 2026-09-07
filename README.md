@@ -1,10 +1,101 @@
-- 👋 Hi, I’m @K-Christiann i am a graduate of Bachelor of Science in Computer Application major in Internet of Things.
-- 👀 I’m interested in everything that is related to technology.
-- 🌱 I’m currently learning everyday about the current trends of technology.
-- 💞️ I’m looking to collaborate on building websites, specially as a Front-end developer
-- 📫 How to reach me? Email me at kaelchristian15@gmail.com
+# Hi, I'm Kyle Christian Belono 👋
 
-<!---
-K-Christiann/K-Christiann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Web Developer & IT Instructor
+
+I build responsive, practical web applications with a focus on clean user interfaces, maintainable code, and real-world usability.
+
+My recent work includes applications for education, property management, business websites, and productivity tools.
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Building web applications using **React, JavaScript, Vite, and Supabase**
+- 🎨 Interested in **Front-End Development and UI/UX**
+- 🗄️ Working with authentication, databases, CRUD systems, and application workflows
+- 🧑‍🏫 IT Instructor with experience teaching programming and web development
+- 🚀 Deploying applications through platforms such as **Netlify**
+- 📚 Continuously improving my skills in modern web development
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 StudySphere
+
+A collaborative study workspace designed to help students organize study spaces, notes, tasks, and discussions in one application.
+
+**Tech:** React · Vite · Supabase · JavaScript · CSS
+
+Features include:
+
+- Study spaces
+- Notes management
+- Task tracking
+- Authentication
+- Real-time collaboration
+- Responsive desktop and mobile UI
+
+---
+
+### 🏠 BahayRentahan
+
+A boarding-house management platform designed for small property owners to manage tenants, rooms, leases, rent obligations, and payments.
+
+**Tech:** React · Vite · Supabase · JavaScript
+
+Features include:
+
+- Tenant management
+- Room and bedspace management
+- Lease management
+- Monthly rental tracking
+- Payment records
+- Dashboard analytics
+- Responsive management interface
+
+---
+
+## 🛠️ Technologies
+
+### Front End
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+
+### Backend & Database
+
+- Supabase
+- PostgreSQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Netlify
+- Figma
+
+### Also Familiar With
+
+- Java
+- C++
+- SQL
+
+---
+
+## 🌐 Portfolio
+
+Check out my projects and development work:
+
+**https://kcbport.netlify.app**
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Kyle Christian Belono](https://www.linkedin.com/in/kcbelono)
+- Portfolio: [kcbport.netlify.app](https://kcbport.netlify.app)
