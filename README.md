@@ -21,6 +21,26 @@ Teaching is a big part of how I think about development. If I can't explain why 
 
 ## What I'm building
 
+### Hinga
+
+<img src="./assets/hinga.jpg" width="100%" alt="Hinga landing page inviting visitors to check in, write, and reach out">
+
+Hinga started with a simple idea: sometimes, people need a little room to breathe before they can put what they feel into words.
+
+I built it as a mental health reflection application that brings together mood check-ins, private journaling, and community discussions reviewed before publication. The design centers on giving people clear choices about how they reflect and what they share.
+
+One of the most meaningful challenges was making those choices clear throughout the experience. Preserving drafts, showing what has actually been saved, keeping calendars readable on mobile, and building a separate moderation workflow all became part of the work.
+
+**What I worked on:** Google sign-in, mood check-ins, calendar reports, private notes, draft preservation, moderated posts and replies, reporting and blocking, pagination, caching, responsive layouts, and frontend service boundaries.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL
+
+**Status:** In active development.
+
+[Project story & frontend source](https://github.com/K-Christiann/hinga)
+
+---
+
 ### StudySphere
 
 <img src="./assets/studysphere.jpg" width="100%" alt="StudySphere landing page and student workspace preview">
